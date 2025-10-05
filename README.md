@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP capabilities At Fidelity Investments<br>👯 I’m looking to collaborate on exciting Computer vision and NLP applications and projects<br>🤝 I’m looking for help with multi-modal models. upskilling and leading large-scale initiatives<br>🌱 I’m currently learning Generative AI,  NLP architectures<br>💬 Ask me about ML, CV, and NLP<br>⚡ Fun fact: I spend my free time reading, playing chess and love Indian food
+🔭 I’m currently working on NLP capabilities At Fidelity Investments<br>👯 I’m looking to collaborate on exciting Computer vision and NLP applications and projects<br>🤝 I’m looking for help with multi-modal models. upskilling and leading large-scale initiatives<br>🌱 I’m currently learning Generative AI,  NLP architectures<br>💬 Ask me about ML, CV, and NLP<br>⚡ Fun fact: I spend my free time reading and playing chess, and I love Indian food
 
 
 # 💻 Tech Stack:
